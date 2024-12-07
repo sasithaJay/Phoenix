@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sasitha Jayasooriya</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasitha-jay&label=Profile%20views&color=0e75b6&style=flat" alt="sasitha-jay" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasitha-jay&label=Profile%20views&color=0e75b6&style=flat" alt="sasitha-jay" /> </p>
 
 
 
